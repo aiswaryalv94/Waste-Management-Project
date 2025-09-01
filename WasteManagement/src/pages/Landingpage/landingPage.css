@@ -1,0 +1,10 @@
+
+.landing-page-image {
+    background-size: cover;
+    width: 100%;
+    opacity: 0.5;
+    position: absolute;
+    z-index: -5;
+
+    
+}
